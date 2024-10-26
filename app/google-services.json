@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "738027232073",
+    "project_id": "app-firebase-authenticat-ced2d",
+    "storage_bucket": "app-firebase-authenticat-ced2d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:738027232073:android:a80367ca67d7f5b6661898",
+        "android_client_info": {
+          "package_name": "com.example.firebaseauthentication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "738027232073-mc6drcl9i4jr9rr9vi4qopuf84lphptj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAsm5T4qWgdbvhhcBhGvDl2V2jHJjeZZl8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "738027232073-mc6drcl9i4jr9rr9vi4qopuf84lphptj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
